@@ -1,3 +1,4 @@
+#for learning
 import random
 import time as t
 #Rock Paper Scissors Game
@@ -56,3 +57,4 @@ game()
 
 
     
+
